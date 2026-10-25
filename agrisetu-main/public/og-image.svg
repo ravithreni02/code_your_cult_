@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f0fdf4"/>
+  <circle cx="1030" cy="110" r="220" fill="#dcfce7"/>
+  <circle cx="110" cy="570" r="260" fill="#bbf7d0"/>
+  <path d="M850 510c0-170 40-270 190-370-15 170-75 300-190 370Z" fill="#16a34a"/>
+  <path d="M850 510C850 340 780 240 650 190c15 160 85 275 200 320Z" fill="#22c55e"/>
+  <path d="M850 510V220" stroke="#166534" stroke-width="18" stroke-linecap="round"/>
+  <text x="90" y="240" font-family="Arial, sans-serif" font-size="86" font-weight="700" fill="#14532d">AgriSetu</text>
+  <text x="95" y="325" font-family="Arial, sans-serif" font-size="38" fill="#166534">Farm equipment, labour &amp; crop advice</text>
+  <text x="95" y="390" font-family="Arial, sans-serif" font-size="28" fill="#15803d">A trusted bridge for every farmer</text>
+</svg>
